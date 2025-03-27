@@ -1,0 +1,6 @@
+python-telegram-bot
+requests
+python-dotenv
+SQLite3-0611
+openai
+pymongo
